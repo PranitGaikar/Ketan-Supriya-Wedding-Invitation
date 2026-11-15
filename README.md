@@ -1,4 +1,4 @@
-# चि. केतन आणि चि. सौ. कां. सुप्रिया — Royal Palace Wedding Experience
+# चि. केतन आणि चि. सौ. कां. सुप्रिया
 
 A static, Vercel-ready wedding invitation website with cinematic and interactive CSS scenes.
 
